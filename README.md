@@ -17,4 +17,20 @@ The Supermarket Dailymart wants to create an annual sales report for Jan-April 2
 
 - Dashboard Interaction <a href=https://github.com/jefryramadhan/Data-Analysis-Supermarket-Dailymart/blob/main/Dashboard%20Dailymart.png>View Dashboard</a>
 
-##Process
+## Process
+- Tidy up the data using power Query for transformation, and cleaning data that has more spaces.
+- made sure data is consistent and clean with respect to data type,data format and value used.
+- creating pivot table according to the questions asked (KPIs).
+- merge all pivot table into one dashboard and aplly slicer to make dynamic.
+
+## Dashboard
+<img width="1830" height="1062" alt="Dashboard Dailymart" src="https://github.com/user-attachments/assets/c2f4352e-5045-42a3-857f-b63cee62f284" />
+
+## Project Insight
+- weekly sales norms between 11.500 transactions indicating market stability.
+- The highest monthly sales performance was in March ranging close to 51.000 transactions.
+- The highest sales driving product is Cereal and the second is Ice Cream.
+- My recommendation is make a bundling promo of Cereal and Ice cream products or make another bundling of top 10 selling products.
+
+## Final Conclusion
+
