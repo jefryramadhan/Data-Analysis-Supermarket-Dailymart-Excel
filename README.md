@@ -28,9 +28,8 @@ The Supermarket Dailymart wants to create an annual sales report for Jan-April 2
 
 ## Project Insight
 - weekly sales norms between 11.500 transactions indicating market stability.
-- The highest monthly sales performance was in March ranging close to 51.000 transactions.
+- The highest monthly sales performance was in March which was close to 51000 transactions and the lowest was in February at 46000 transactions.
 - The highest sales driving product is Cereal and the second is Ice Cream.
-- My recommendation is make a bundling promo of Cereal and Ice cream products or make another bundling of top 10 Products sold.
 
 ## Final Conclusion
 To improve the sales of Supermarket Dailymart, from the basket market analysis, the markting strategic plan focuses on the most sold products. Make a bundling promo of Cereal and Ice cream prodcut or make another bundling of top 10 product sold, do a sales strategy to put products that sell less side by side with the most sold so that buyers are interested in buying them. This demographic represents stable weekly sales performance and less stable monthly performance. conducting a special campaign in feb to counteract the seasonal downward trend will stabilize monthly sales.
