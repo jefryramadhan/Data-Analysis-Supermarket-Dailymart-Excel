@@ -10,15 +10,15 @@ The Supermarket Dailymart wants to create an annual sales report for Jan-April 2
 - What is the total number of sales transactions in Jan - April 2025?
 - How many unique customers came in January - April 2025?
 - How many total products sold in January - April 2025?
-- What is the average item/product purchased by customers?
-- What is the average weekly product sales?
+- How many average item/product purchased by customers?
+- How many verage weekly product sales?
 - Which month did the biggest sales occur?
 - What is the most sold product?
 
 - Dashboard Interaction <a href=https://github.com/jefryramadhan/Data-Analysis-Supermarket-Dailymart/blob/main/Dashboard%20Dailymart.png>View Dashboard</a>
 
 ## Process
-- Tidy up the data using power Query for transformation, and cleaning data that has more spaces.
+- Tidy up the data using power Query for transformation, and cleaning data.
 - made sure data is consistent and clean with respect to data type,data format and value used.
 - creating pivot table according to the questions asked (KPIs).
 - merge all pivot table into one dashboard and aplly slicer to make dynamic.
@@ -30,7 +30,7 @@ The Supermarket Dailymart wants to create an annual sales report for Jan-April 2
 - weekly sales norms between 11.500 transactions indicating market stability.
 - The highest monthly sales performance was in March ranging close to 51.000 transactions.
 - The highest sales driving product is Cereal and the second is Ice Cream.
-- My recommendation is make a bundling promo of Cereal and Ice cream products or make another bundling of top 10 selling products.
+- My recommendation is make a bundling promo of Cereal and Ice cream products or make another bundling of top 10 Products sold.
 
 ## Final Conclusion
-
+To improve the sales of Supermarket Dailymart, from the basket market analysis, the markting strategic plan focuses on the most sold products. Make a bundling promo of Cereal and Ice cream prodcut or make another bundling of top 10 product sold, do a sales strategy to put products that sell less side by side with the most sold so that buyers are interested in buying them. This demographic represents stable weekly sales performance and less stable monthly performance. conducting a special campaign in feb to counteract the seasonal downward trend will stabilize monthly sales.
