@@ -1,5 +1,3 @@
-## Query Key
-```sql
 -- 1. Counting the total unique transactions per Jan - April 2025
 SELECT
     COUNT(DISTINCT TransactionID) AS Total_Transaction
