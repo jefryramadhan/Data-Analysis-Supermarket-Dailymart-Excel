@@ -15,8 +15,6 @@ This Project providing in depth analysis sales data from January - April 2025 fo
 - Which month did the biggest sales occur?
 - What is the most sold product?
 
-- Dashboard Interaction <a href=https://github.com/jefryramadhan/Data-Analysis-Supermarket-Dailymart/blob/main/Dashboard%20Dailymart.png>View Dashboard</a>
-
 ## Process
 Excel:
 1. Tidy up the data using power Query for transformation, and cleaning data.
