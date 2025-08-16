@@ -26,6 +26,7 @@ SQL:
 1. **Data Preparation:** Imported Dataset CSV with -200.000 rows into MySQL Database use command `LOAD DATA LOCAL INFILE` to handling data raw.
 2. **Data Transforming:** Function `STR_TO_DATE()` used in process import to ensuring format date its right and already to analyzed.
 3. **Query & Analysis:** Each business questions(KPIs) answered with write the Query SQL Specifically use Clause `WHERE` to filtering, `GROUP BY` to Aggregation and functions like `COUNT(DISTINCT ...)`, `AVG()`, and `MONTHNAME()`.
+4. <a href="https://github.com/jefryramadhan/Data-Analysis-Supermarket-Dailymart-Excel-SQL-Tableu/blob/main/supermarket_analysis_query.sql">View Query SQL</a>
 
 Tableu:
 1. The cleaned data was then connected to Tableu to build comprehensive interactive dashboard. This dasboard designed for visualize key KPIs, monthly and weekly salews trends, and the performance best selling product.
@@ -33,7 +34,6 @@ Tableu:
 
 ## Dashboard
 <img width="969" height="697" alt="Supermarket Dailymart Dashboard Tableu" src="https://github.com/user-attachments/assets/9406f32a-bcda-404b-b5e2-390c43826e2b" />
-
 
 ## Project Insight
 - weekly sales norms between 11.500 transactions indicating market stability.
