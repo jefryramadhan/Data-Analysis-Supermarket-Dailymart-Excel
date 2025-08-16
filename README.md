@@ -35,7 +35,7 @@ SQL:
 Tableu:
 1. The cleaned data was then connected to Tableu to build comprehensive interactive dashboard. This dasboard designed for visualize key KPIs, monthly and weekly salews trends, and the performance best selling product.
 2. <a href="https://public.tableau.com/app/profile/rahmad.jefry.r/viz/SupermarketDailymartDashboard/Dashboard1?publish=yes">Link Dashboard</a>
-3. <a href="hthttps://github.com/jefryramadhan/Data-Analysis-Supermarket-Dailymart-Excel-SQL-Tableu/blob/main/Supermarket%20Dailymart%20Dashboard%20Tableu.png">View final Dashboard Tableu</a>
+3. <a href="https://github.com/jefryramadhan/Data-Analysis-Supermarket-Dailymart-Excel-SQL-Tableu/blob/main/Supermarket%20Dailymart%20Dashboard%20Tableu.png">View final Dashboard Tableu</a>
 
 ## Dashboard 
 <img width="969" height="697" alt="Supermarket Dailymart Dashboard Tableu" src="https://github.com/user-attachments/assets/9406f32a-bcda-404b-b5e2-390c43826e2b" />
