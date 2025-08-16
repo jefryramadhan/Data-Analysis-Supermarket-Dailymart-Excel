@@ -1,4 +1,4 @@
-# Data-Analysis-Supermarket-Dailymart (Interactive Dashboard creation using MS Excel)
+# Data-Analysis-Supermarket-Dailymart (Interactive Dashboard creation using MS Excel-SQL-Tableu)
 
 ## Project Objective
 This Project providing in depth analysis sales data from January - April 2025 for "Supermarket Dailymart". Main objective is to creating important insights related performance product, sales trends, customers behavior to informs strategic business decision.
@@ -31,7 +31,7 @@ SQL:
 
 Tableu:
 1. The cleaned data was then connected to Tableu to build comprehensive interactive dashboard. This dasboard designed for visualize key KPIs, monthly and weekly salews trends, and the performance best selling product.
-2. <a href=<a href="https://public.tableau.com/app/profile/rahmad.jefry.r/viz/SupermarketDailymartDashboard/Dashboard1?publish=yes">Link Dashboard</a>
+2. <a href="https://public.tableau.com/app/profile/rahmad.jefry.r/viz/SupermarketDailymartDashboard/Dashboard1?publish=yes">Link Dashboard</a>
 
 ## Dashboard
 <img width="969" height="697" alt="Supermarket Dailymart Dashboard Tableu" src="https://github.com/user-attachments/assets/9406f32a-bcda-404b-b5e2-390c43826e2b" />
