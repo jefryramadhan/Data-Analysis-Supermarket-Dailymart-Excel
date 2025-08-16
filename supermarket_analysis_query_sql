@@ -1,0 +1,72 @@
+## Query Key
+```sql
+-- 1. Counting the total unique transactions per Jan - April 2025
+SELECT
+    COUNT(DISTINCT TransactionID) AS Total_Transaction
+FROM
+    transactions;
+
+-- 2. displaying the total unique Customers per Jan - April 2025
+SELECT 
+    COUNT(DISTINCT `CustomerID`) AS Total_Unique_Customer
+FROM
+    transactions;
+
+-- 3. Displaying the total product sold per Jan - April 2025 
+SELECT
+    COUNT(`Products`) AS Total_Product_Sales
+from 
+    transactions;
+
+-- 4. Counting Average item/product purchased by customers
+Select 
+    Round(COUNT(`TransactionID`) / COUNT(DISTINCT `TransactionID`), 3) AS Avg_Basket_Size
+from 
+    transactions;
+ 
+-- 5. Displaying the total unique product
+SELECT
+    COUNT(DISTINCT `Products`) AS Total_Product
+FROM 
+    transactions;
+
+-- 6. Counting average weekly product sales
+WITH Sales_week AS (
+    SELECT 
+        YEARWEEK(Timestamp) AS Minggu,
+        Count(TransactionID) AS Transaksi
+    FROM 
+        transactions
+    GROUP BY
+        Minggu
+)
+SELECT 
+    ROUND(AVG(Transaksi), 2) AS Rata_Rata_Transaksi
+FROM
+    `Sales_week`;
+
+-- 7. Displaying the month biggest sales
+SELECT
+    MONTHNAME(Timestamp) AS Bulan,
+    COUNT(TransactionID) AS Transaksi
+FROM
+    transactions
+WHERE
+    'Timestamp' IS NOT NULL AND 'Timestamp' > '0000-00-00'
+GROUP BY
+    Bulan
+ORDER BY
+    Transaksi DESC
+    LIMIT 1; 
+
+-- 8. Displaying the most sold product
+SELECT 
+    `Products`,
+    COUNT(TransactionID) AS Transaksi
+FROM
+    transactions
+GROUP BY 
+    `Products`
+ORDER BY
+    Transaksi DESC
+    LIMIT 5 OFFSET 0;
